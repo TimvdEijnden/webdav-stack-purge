@@ -1,0 +1,1 @@
+0 5 * * * . /home/node/.env && /usr/local/bin/node /home/node/scripts/purge.js $WEBDAV_USERNAME $WEBDAV_PASSWORD $WEBDAV_FOLDER >> /var/log/cron/cron.log 2>&1

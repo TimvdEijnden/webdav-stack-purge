@@ -1,0 +1,14 @@
+{
+  "name": "webdav-stack-purge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "purge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webdav": "^2.8.0"
+  }
+}
