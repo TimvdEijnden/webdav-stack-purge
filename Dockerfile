@@ -1,4 +1,4 @@
-FROM node:8-alpine
+FROM arm32v6/node:8-alpine
 
 COPY ./cron/root /etc/crontabs/root
 COPY ./scripts /home/node/scripts
