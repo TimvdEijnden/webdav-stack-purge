@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "webdav": "^2.8.0"
+    "webdav": "^5.0.0-r3"
   }
 }
